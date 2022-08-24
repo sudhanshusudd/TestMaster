@@ -26,6 +26,6 @@ post{
 
 always{
 		emailext body: 'summary',subject: 'Pipeline status',to:'sudhanshu.chaurasia.sel@gmail.com'
-}
-}
+	}
+	}
 }
